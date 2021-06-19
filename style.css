@@ -1,0 +1,41 @@
+body {
+	text-align: center;
+	background-color: lightsteelblue;
+	color:  white;
+	line-height: 1.8;
+	font-size: 1.5em;
+	width: 60%;
+	margin: auto;
+}
+h1 {
+	color: white;
+	margin-bottom: 20px;
+	padding: 20px;
+}
+
+.new {
+	border: 1px solid lightsteelblue;
+	color: white;
+	padding: 20px;
+	width: 90%;
+	height: auto;
+	margin: auto;
+	
+}
+.btn {
+	border: 1px solid steelblue;
+	border-radius: 3px;
+	color: steelblue;
+	font-size: 1em;
+	margin-top: 20px;
+	padding: 20px;
+	background-color: lightsteelblue;
+	
+}
+.btn:hover {
+	color: white; 
+	
+	border:  1px solid white;
+	
+	
+}
