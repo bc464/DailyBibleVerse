@@ -64,15 +64,10 @@ const randomVerses = ["And he shall judge the world in righteousness, he shall m
 
 ];
 
-function newVerse() {
-    let randomNumber = Math.floor(Math.random() * randomVerses.length);
-    document.write(randomVerses[randomNumber]);
-    
-
-
-}
 function newVerse1() {
+
     let randomNumber = Math.floor(Math.random() * randomVerses.length);
     document.getElementById('verse').innerHTML = randomVerses[randomNumber];
 }
-newVerse();
+
+newVerse1();
