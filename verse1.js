@@ -61,7 +61,6 @@ const randomVerses = ["And he shall judge the world in righteousness, he shall m
 "There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it. (1Co 10:13)",
 "But the Lord is faithful, who shall stablish you, and keep you from evil. (2Th 3:3)"
 
-
 ];
 
 function newVerse1() {
